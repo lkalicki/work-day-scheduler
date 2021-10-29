@@ -6,7 +6,7 @@ The Work Day Scheduler was created based on the mockup provided to allow for use
 
 Screenshot
 
- <img src="./assets/images/screenshot.png" alt="Screenshot"/>
+ <img src="./assets/Images/screenshot.png" alt="Screenshot"/>
 
 
 
